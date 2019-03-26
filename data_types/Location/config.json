@@ -1,0 +1,12 @@
+{
+  "exportId" : "JjcdEaiaTIyUQSNAwWJqjg",
+  "name" : "Location",
+  "responseTypeId" : "Normal",
+  "canBeMemoized" : true,
+  "isDataType" : true,
+  "isTest" : false,
+  "dataTypeConfig" : {
+    "fields" : [ ],
+    "usesCode" : true
+  }
+}

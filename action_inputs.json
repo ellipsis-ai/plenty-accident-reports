@@ -1,0 +1,21 @@
+[ {
+  "exportId" : "1nJrcwcnRWqIDsrzB7BrDA",
+  "name" : "location",
+  "paramType" : {
+    "exportId" : "JjcdEaiaTIyUQSNAwWJqjg",
+    "name" : "Location"
+  },
+  "question" : "What is the value for `location`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "oio6gUoNSa6q6cncqNUi_Q",
+  "name" : "location",
+  "paramType" : {
+    "exportId" : "JjcdEaiaTIyUQSNAwWJqjg",
+    "name" : "Location"
+  },
+  "question" : "In which location did this happen?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]

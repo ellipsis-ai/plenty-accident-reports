@@ -1,0 +1,8 @@
+{
+  "name" : "Accidents",
+  "exportId" : "UzZwqLjRS-mvZDln2BCJdQ",
+  "icon" : "🏨",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuthApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
